@@ -1,0 +1,10 @@
+streamlit
+langchain
+openai
+faiss-cpu
+pypdf
+groq
+langchain_community
+phidata
+sentence-transformers
+python-dotenv
